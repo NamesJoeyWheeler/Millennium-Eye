@@ -1,15 +1,17 @@
-# DO NOT USE PROGRAM YET. IT IS NO WHERE NEAR COMPLETE.
-
 # Millenium-Eye
 A Python program for getting server links from Stan.
 
-# Plans:
+# How To Use
 
-You type in a link from Stan.
+Run the .py file with whatever you use to run them.
+
+Type in the episode/movie ID from Stan
 
 Example: https://play.stan.com.au/programs/1361288/play
 
-Then the program will give you a link from Stan's servers, that contain download urls.
+Type in 1361288
+
+It will give you a link, which contains all the video links.
 
 # What's the point?
 
