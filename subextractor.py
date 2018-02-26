@@ -1,0 +1,8 @@
+print("----Millenium Eye----")
+print("----Sub Extracter----")
+print("Developed By NamesJoeyWheeler")
+print("")
+var = input("Enter Stan Episode/Movie ID: ")
+print("---------------------------------")
+print("https://streamcott-a.akamaihd.net/" + str(var))
+print("A-1/eng.vtt")
