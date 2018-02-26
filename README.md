@@ -3,6 +3,8 @@ A Python program for getting server links from Stan.
 
 # How To Use
 
+Millenium Eye:
+
 Run the .py file with whatever you use to run them.
 
 Type in the episode/movie ID from Stan
@@ -13,7 +15,6 @@ Type in the numbers (which is 1361288 in this instance)
 
 It will give you a link, which contains all the video links.
 
-# What's the point?
+Millenium Eye Sub Extractor:
 
-After this is made, I plan to making a program that can download the videos.
-But for now, my plan is to make a program that gives a link.
+Same method as Millenium Eye, except it gives a link to subtitles.
