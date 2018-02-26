@@ -20,3 +20,5 @@ Millenium Eye Sub Extractor:
 Same method as Millenium Eye, except it gives a link to subtitles.
 
 To Download the subtitles, you can open up the link in Chrome. Then you right click, save as, then you must set it as All Files and save it as a .vtt file.
+
+I am planning on having it download the sub in the future.
