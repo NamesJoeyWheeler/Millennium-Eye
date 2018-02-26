@@ -1,3 +1,5 @@
+# DO NOT USE PROGRAM YET. IT IS NO WHERE NEAR COMPLETE.
+
 # Millenium-Eye
 A Python program for getting server links from Stan.
 
