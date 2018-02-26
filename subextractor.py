@@ -1,5 +1,5 @@
 print("----Millenium Eye----")
-print("----Sub Extracter----")
+print("----Sub Extractor----")
 print("Developed By NamesJoeyWheeler")
 print("")
 var = input("Enter Stan Episode/Movie ID: ")
