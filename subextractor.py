@@ -21,4 +21,3 @@ print("https://streamcott-a.akamaihd.net/" + str(var))
 print("D-1/eng.vtt")
 print("---------------------------------")
 print("Still not working? Please go to the GitHub page and report this problem with the link you want to get")
-
