@@ -13,8 +13,6 @@ Stan Account (Optional, but would be good for getting the IDs)
 
 Millenium Eye:
 
-Install Python (Duh)
-
 Run the .py file with whatever you use to run them (I recommend CMD)
 
 Type in the episode/movie ID from Stan
