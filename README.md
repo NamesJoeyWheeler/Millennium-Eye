@@ -2,11 +2,11 @@
 A Python program for getting server links from Stan.
 
 # Things Needed
-Python 3
+-Python 3
 
-Windows (Unknown if working on other operating systems)
+-Windows (Unknown if working on other operating systems)
 
-Stan Account (Optional, but would be good for getting the IDs)
+-Stan Account (Optional, but would be good for getting the IDs)
 
 
 # How To Use
