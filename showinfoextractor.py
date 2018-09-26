@@ -9,4 +9,3 @@ url = str(var)
 response = get(url)
 print("-----------------------------")
 print(response.text[:500])
-
